@@ -1,0 +1,3 @@
+/home/sheldor/Downloads/Vis-Class9/Vis-Class9-workshop/Bin/CMakeFiles/rebuild_cache.dir
+/home/sheldor/Downloads/Vis-Class9/Vis-Class9-workshop/Bin/CMakeFiles/edit_cache.dir
+/home/sheldor/Downloads/Vis-Class9/Vis-Class9-workshop/Bin/CMakeFiles/VisPUJ-WS9.dir
